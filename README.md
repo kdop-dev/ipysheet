@@ -2,7 +2,7 @@
 
 Spreadsheet in the Jupyter notebook:
 
-   * Try it out using binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantStack/ipysheet/stable?filepath=docs%2Fsource%2Findex.ipynb)
+   * Try it out using binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kdop-dev/ipysheet.git/master)
    * Or check out the documentation at https://ipysheet.readthedocs.io/
 
 **Create a table and drive a value using ipywidgets:**
@@ -49,7 +49,7 @@ $ jupyter nbextension enable --py --sys-prefix ipysheet
 For a development installation (requires npm),
 
 ```
-$ git clone https://github.com/QuantStack/ipysheet.git
+$ git clone https://github.com/kdop-dev/ipysheet.git
 $ cd ipysheet
 $ pip install -e .
 $ jupyter nbextension install --py --symlink --sys-prefix ipysheet
