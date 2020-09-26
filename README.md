@@ -2,7 +2,7 @@
 
 Spreadsheet in the Jupyter notebook:
 
-   * Try it out using binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kdop-dev/ipysheet.git/master)
+   * Try it out using binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kdop-dev/ipysheet.git/master?urlpath=lab)
    * Or check out the documentation at https://ipysheet.readthedocs.io/
 
 **Create a table and drive a value using ipywidgets:**
